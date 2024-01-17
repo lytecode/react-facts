@@ -2,13 +2,27 @@ nav {
   display: flex;
   padding: auto;
   background-color: #21222A;
+  width: 550px;
+  height: 91px;
+}
+
+.react-logo {
+  width: 27px;
+  height: 24px;
+  margin-top: 31px;
+  margin-left: 26px;
 }
 
 .react-facts {
   color: #61DAFB;
+  font-weight: bold;
+  font-size: 22px;
+  margin-top: 31px;
+  margin-left: 8px;
 }
 
 .course-name {
   color: white;
   margin: auto 0 auto auto;
+  font-weight: 16px;
 }
