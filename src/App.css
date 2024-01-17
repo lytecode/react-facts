@@ -1,0 +1,14 @@
+nav {
+  display: flex;
+  padding: auto;
+  background-color: #21222A;
+}
+
+.react-facts {
+  color: #61DAFB;
+}
+
+.course-name {
+  color: white;
+  margin: auto 0 auto auto;
+}
